@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: REDCap Automatic Form Statistics External Module
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Paige
+    family-names: Sullivan
+    email: psullivan@jhu.edu
+    affiliation: Johns Hopkins University
+    orcid: 'https://orcid.org/0009-0002-7041-9547'
+repository-code: 'https://github.com/metrc/redcap-auto-form-stats'
+abstract: >-
+  ...
+keywords:
+  - redcap
+  - redcap-external-module
+  - redcap-repo
+license: MIT
